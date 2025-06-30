@@ -1,0 +1,4 @@
+gradio
+pydub
+numpy
+scipy
