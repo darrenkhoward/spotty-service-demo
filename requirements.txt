@@ -1,4 +1,3 @@
-gradio
+streamlit
 pydub
 numpy
-scipy
